@@ -10,7 +10,7 @@ Sorting Visualizer is a Java-based application that provides a graphical represe
 
 **ButtonModel.java**: Custom button model to handle button behavior.
 
-**BubbleSort.java**, **InsertionSort.java**, **SelectionSort.java**, **QuickSort.java**: Implementations of different sorting algorithms.
+**BubbleSort.java, InsertionSort.java, SelectionSort.java, QuickSort.java**: Implementations of different sorting algorithms.
 
 **SortingPanel.java**: The JPanel where the sorting visualization occurs, including buttons for controlling the visualization.
 
